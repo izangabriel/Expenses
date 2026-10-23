@@ -2,9 +2,7 @@
 
 Aplicación web para registrar y analizar gastos personales. Cada persona inicia sesión y solo ve sus propios gastos: esa regla la aplica la base de datos con Row Level Security, no solo el frontend.
 
-**Demo:** [PEGA AQUÍ EL LINK DEL DEMO]
-
-![Dashboard](docs/dashboard.png)
+**Demo:** https://expense-trackeri.netlify.app/
 
 ## Qué hace
 
