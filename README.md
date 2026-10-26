@@ -28,7 +28,7 @@ React (Vite) · React Router · Supabase (Auth y PostgreSQL) · Recharts · Tail
 
 1. Clona el repositorio e instala dependencias:
    ```bash
-   git clone [URL DEL REPOSITORIO]
+   git clone https://github.com/izangabriel/Expenses
    cd expense-tracker
    npm install
    ```
